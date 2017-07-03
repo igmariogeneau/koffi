@@ -12,6 +12,7 @@
 		00F946B31F0AA19800368CAC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00F946B11F0AA19800368CAC /* Main.storyboard */; };
 		00F946B51F0AA19800368CAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00F946B41F0AA19800368CAC /* Assets.xcassets */; };
 		00F946B81F0AA19800368CAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00F946B61F0AA19800368CAC /* LaunchScreen.storyboard */; };
+		00F946C01F0AA1B900368CAC /* test.mov in Resources */ = {isa = PBXBuildFile; fileRef = 00F946BF1F0AA1B900368CAC /* test.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		00F946B41F0AA19800368CAC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		00F946B71F0AA19800368CAC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		00F946B91F0AA19800368CAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		00F946BF1F0AA1B900368CAC /* test.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = test.mov; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				00F946B41F0AA19800368CAC /* Assets.xcassets */,
 				00F946B61F0AA19800368CAC /* LaunchScreen.storyboard */,
 				00F946B91F0AA19800368CAC /* Info.plist */,
+				00F946BF1F0AA1B900368CAC /* test.mov */,
 			);
 			path = KoffiVideo;
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00F946C01F0AA1B900368CAC /* test.mov in Resources */,
 				00F946B81F0AA19800368CAC /* LaunchScreen.storyboard in Resources */,
 				00F946B51F0AA19800368CAC /* Assets.xcassets in Resources */,
 				00F946B31F0AA19800368CAC /* Main.storyboard in Resources */,
